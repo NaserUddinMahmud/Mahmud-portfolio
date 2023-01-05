@@ -78,13 +78,13 @@ main {
 }
 /* about me section styles */
 .about-me {
+  text-align: center;
   margin-top: 130px;
   background: #fff8f3;
   border-radius: 10px;
   padding: 130px 150px;
 }
 .section-title {
-  text-align: center;
   margin-bottom: 30px;
   font-weight: 700;
   font-size: 35px;
@@ -95,5 +95,24 @@ main {
   margin-bottom: 30px;
   color: #757575;
   margin-bottom: 30px;
-  text-align: center;
+}
+.about-info-container {
+  display: flex;
+  justify-content: space-around;
+}
+.about-me .info-title {
+  font-size: 20px;
+  line-height: 30px;
+  color: #757575;
+}
+.about-me .info-description {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+}
+.about-info{
+    border: 2px solid #fdd2b5;
+    padding: 10px;
+    border-radius: 5px;
+ 
 }
