@@ -154,6 +154,10 @@ main {
   display: flex;
   gap: 24px;
 }
+.resume .section-title{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
 .resume-title{
     font-weight: 700;
 font-size: 30px;
