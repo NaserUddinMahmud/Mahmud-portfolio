@@ -111,8 +111,13 @@ main {
   line-height: 30px;
 }
 .about-info{
-    border: 2px solid #fdd2b5;
+    background-color: #ffdec7;
     padding: 10px;
     border-radius: 5px;
  
+}
+/* what-i-do styles */
+.what-i-do{
+    text-align: center;
+  margin-top: 130px;
 }
